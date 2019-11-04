@@ -3,7 +3,7 @@
 - School of Data and Computer Science, Sun Yat-sen University
 
 ### Brief Biography
-Juanhui Li is a third-year master candidate of Computer Science at Sun Yat-sen University (SYSU). Her supervisor is Dr. Changdong Wang 
+Juanhui Li is a third-year master candidate of Computer Science at Sun Yat-sen University (SYSU). Her supervisor is <a href ="http://www.scholat.com/changdongwang">Dr. Changdong Wang</a>. 
 
 ```markdown
 Syntax highlighted code block
