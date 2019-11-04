@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Correspondence
+- Email: lijh28@mail2.sysu.edu.cn
+- School of Data and Computer Science, Sun Yat-sen University
 
-You can use the [editor on GitHub](https://github.com/Juanhui28/Juanhui-Li/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Brief Biography
+Juanhui Li is a third-year master candidate of Computer Science at Sun Yat-sen University (SYSU). Her supervisor is Dr. Changdong Wang <a href ="http://www.scholat.com/changdongwang">Dr. Changdong Wang</a>
 
 ```markdown
 Syntax highlighted code block
