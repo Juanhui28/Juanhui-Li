@@ -10,6 +10,8 @@ Juanhui Li is a third-year master candidate of Computer Science at Sun Yat-sen U
 - **Juanhui Li**, Changdong Wang, Ling Huang, Dong Huang, Jianhuang Lai, Pei Chen: **Attributed Network Embedding with Micro-meso Structure**. In: International Conference on Database Systems for Advanced Applications (DASFAA 2018), Springer (2018), 20-36.
 - **Juanhui Li**, Ling Huang, Changdong Wang, Dong Huang, Jianhuang Lai: **PartNRL: Partial Nodes Representation Learning in Large-Scale Network**. In: IEEE Access 7: 56457-56468 (2019).
 -**Juanhui Li**, Pei-Zhen Li, Chang-Dong Wang, Jian-Huang Lai: **Community Detection in Complicated Network Based on the Multi-view Weighted Signed Permanence**. In: (IEEE) Trustcom/BigataSE/ISPA, 1589-1596.
+
+
 ```markdown
 Syntax highlighted code block
 
