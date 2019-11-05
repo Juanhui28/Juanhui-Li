@@ -9,8 +9,9 @@ Juanhui Li is a third-year master candidate of Computer Science at Sun Yat-sen U
 - **Juanhui Li**, Changdong Wang, Peizhen Li, Jianhuang Lai: **Discriminative metric learning for multi-view graph partitioning**. In: Pattern Recognition 75 (2018), 199-213.
 - **Juanhui Li**, Changdong Wang, Ling Huang, Dong Huang, Jianhuang Lai, Pei Chen: **Attributed Network Embedding with Micro-meso Structure**. In: International Conference on Database Systems for Advanced Applications (DASFAA 2018), Springer (2018), 20-36.
 - **Juanhui Li**, Ling Huang, Changdong Wang, Dong Huang, Jianhuang Lai: **PartNRL: Partial Nodes Representation Learning in Large-Scale Network**. In: IEEE Access 7: 56457-56468 (2019).
--**Juanhui Li**, Pei-Zhen Li, Chang-Dong Wang, Jian-Huang Lai: **Community Detection in Complicated Network Based on the Multi-view Weighted Signed Permanence**. In: (IEEE) Trustcom/BigataSE/ISPA, 1589-1596.
-
+- **Juanhui Li**, Pei-Zhen Li, Chang-Dong Wang, Jian-Huang Lai: **Community Detection in Complicated Network Based on the Multi-view Weighted Signed Permanence**. In: (IEEE) Trustcom/BigataSE/ISPA, 1589-1596.
+-[5] Wei Shi, Ling Huang, Changdong Wang, **Juanhui Li**, Yong Tang, Chengzhou Fu: **Network Embedding via Community Based Variational Autoencoder**. In: IEEE Access 7: 25323-25333 (2019).
+- [6] Peizhen Li, **Juanhui Li**, Changdong Wang: **A SVM-Based EEG Signal Analysis: An Auxiliary Therapy for Tinnitus**. In: International Conference on Brain Inspired Cognitive Systems (BICS 2016), 207-219.
 
 ```markdown
 Syntax highlighted code block
