@@ -1,4 +1,4 @@
-![image](/头像.jpg)
+
 
 ## Correspondence
 - Email: lijh28@mail2.sysu.edu.cn
