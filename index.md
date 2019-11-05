@@ -20,7 +20,11 @@ Her current research interests include data mining and machine learning especial
 ## Internship Experience
 ### Mininglamp Technology
 - 06/2019-09/2019: Interned in the Knowledge Engineering Lab under Dr. Jie Zhang, and
-supervised by Prof. Xindong Wu.
+supervised by Dr. Xindong Wu.
+
+Developed effective methods to predict the missing entities or relations
+in temporal knowledge graphs. Wrote a patent about constructing event
+graphs.
 
 ```markdown
 Syntax highlighted code block
