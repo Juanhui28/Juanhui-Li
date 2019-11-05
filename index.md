@@ -1,6 +1,6 @@
 ## Correspondence
 - Email: lijh28@mail2.sysu.edu.cn
-- School of Data and Computer Science, Sun Yat-sen University
+- Phone: +86-13763361914
 
 ## Brief Biography
 Juanhui Li is a third-year master candidate of Computer Science at Sun Yat-sen University (SYSU). Her supervisor is <a href ="http://www.scholat.com/changdongwang">Dr. Changdong Wang</a>. She got her Bachelor degree in Software Engineering in 2017 from SYSU.
@@ -8,6 +8,7 @@ Juanhui Li is a third-year master candidate of Computer Science at Sun Yat-sen U
 Currently, she is visiting the [Data Science and Engineering (DSE) lab](http://dse.cse.msu.edu/) at Michigan State University, under the supervision of [Dr. Jiliang Tang](https://www.cse.msu.edu/~tangjili/index.html).
 
 Her current research interests include data mining and machine learning especially network representation learning and community detection.
+![image]
 
 ## Selected Publications
 - **Juanhui Li**, Changdong Wang, Peizhen Li, Jianhuang Lai: **Discriminative metric learning for multi-view graph partitioning**. In: Pattern Recognition 75 (2018), 199-213.
