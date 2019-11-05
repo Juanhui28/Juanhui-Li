@@ -17,10 +17,9 @@ Her current research interests include data mining and machine learning especial
 - Wei Shi, Ling Huang, Changdong Wang, **Juanhui Li**, Yong Tang, Chengzhou Fu: **Network Embedding via Community Based Variational Autoencoder**. In: IEEE Access 7: 25323-25333 (2019).
 -  Peizhen Li, **Juanhui Li**, Changdong Wang: **A SVM-Based EEG Signal Analysis: An Auxiliary Therapy for Tinnitus**. In: International Conference on Brain Inspired Cognitive Systems (BICS 2016), 207-219.
 
-## Miscellanous Experiences
-### Internship Experience
-#### Mininglamp Technology
--06/2019-09/2019: Interned in the Knowledge Engineering Lab under Dr. Jie Zhang, and
+## Internship Experience
+### Mininglamp Technology
+- 06/2019-09/2019: Interned in the Knowledge Engineering Lab under Dr. Jie Zhang, and
 supervised by Prof. Xindong Wu.
 
 ```markdown
