@@ -12,7 +12,7 @@ Currently, she is visiting the [Data Science and Engineering (DSE) lab](http://d
 Her current research interests include data mining and machine learning especially network representation learning and community detection.
 
 ## Selected Publications
-- **__Juanhui Li__**, Changdong Wang, Peizhen Li, Jianhuang Lai: **Discriminative metric learning for multi-view graph partitioning**. In: Pattern Recognition 75 (2018), 199-213.
+- **Juanhui Li**, Changdong Wang, Peizhen Li, Jianhuang Lai: **Discriminative metric learning for multi-view graph partitioning**. In: Pattern Recognition 75 (2018), 199-213.
 - **Juanhui Li**, Changdong Wang, Ling Huang, Dong Huang, Jianhuang Lai, Pei Chen: **Attributed Network Embedding with Micro-meso Structure**. In: International Conference on Database Systems for Advanced Applications (DASFAA 2018), Springer (2018), 20-36.
 - **Juanhui Li**, Ling Huang, Changdong Wang, Dong Huang, Jianhuang Lai: **PartNRL: Partial Nodes Representation Learning in Large-Scale Network**. In: IEEE Access 7: 56457-56468 (2019).
 - **Juanhui Li**, Pei-Zhen Li, Chang-Dong Wang, Jian-Huang Lai: **Community Detection in Complicated Network Based on the Multi-view Weighted Signed Permanence**. In: (IEEE) Trustcom/BigataSE/ISPA, 1589-1596.
