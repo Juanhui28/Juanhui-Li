@@ -27,7 +27,7 @@ in temporal knowledge graphs. Wrote a patent about constructing event
 graphs.
 
 ## Services
-- KDD 2019: Subreviewr 
+- KDD 2019: Subreviewer 
 
 ## Teaching Assistant
 - Data Mining, 2018 Spring
