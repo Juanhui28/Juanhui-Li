@@ -5,13 +5,14 @@
 - Phone: +86-13763361914
 
 ## Brief Biography
-Juanhui Li is a PhD student in the [Data Science and Engineering (DSE) lab](http://dse.cse.msu.edu/) at Michigan State University, under the supervision of [Dr. Jiliang Tang](https://www.cse.msu.edu/~tangjili/index.html). She got a Master degree in  Computer Science and technology in 2020 from Sun Yat-sen University (SYSU)
+Juanhui Li is a PhD student in the [Data Science and Engineering (DSE) lab](http://dse.cse.msu.edu/) at Michigan State University, under the supervision of [Dr. Jiliang Tang](https://www.cse.msu.edu/~tangjili/index.html). She got a Master degree in  Computer Science and technology in 2020 from Sun Yat-sen University (SYSU).
 
 
 
 Her current research interests include data mining and machine learning especially graph neural networks.
 
 ## Publications
+- **<u>Juanhui Li</u>**,Yao Ma,Yiqi Wang,Charu Aggarwal,Chang-DongWang,Jiliang Tang: **GraphPoolingwithRepresentativeness**. In:20th IEEE International Conference on Data Mining (ICDM2020), 302-311.
 - **<u>Juanhui Li</u>**, Changdong Wang, Peizhen Li, Jianhuang Lai: **Discriminative metric learning for multi-view graph partitioning**. In: Pattern Recognition 75 (2018), 199-213.
 - **<u>Juanhui Li</u>**, Changdong Wang, Ling Huang, Dong Huang, Jianhuang Lai, Pei Chen: **Attributed Network Embedding with Micro-meso Structure**. In: International Conference on Database Systems for Advanced Applications (DASFAA 2018), Springer (2018), 20-36.
 - **<u>Juanhui Li</u>**, Ling Huang, Changdong Wang, Dong Huang, Jianhuang Lai: **PartNRL: Partial Nodes Representation Learning in Large-Scale Network**. In: IEEE Access 7: 56457-56468 (2019).
