@@ -1,7 +1,7 @@
 
 
 ## Correspondence
-- Email: lijh28@mail2.sysu.edu.cn
+- Email: lijuanh1@msu.edu
 - Phone: +86-13763361914
 
 ## Brief Biography
