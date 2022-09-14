@@ -2,7 +2,7 @@
 
 ## Correspondence
 - Email: lijuanh1@msu.edu
-- Phone: +86-13763361914
+- Phone: +517 303 7625
 
 ## Brief Biography
 Juanhui Li is a PhD student in the [Data Science and Engineering (DSE) lab](http://dse.cse.msu.edu/) at Michigan State University, under the supervision of [Dr. Jiliang Tang](https://www.cse.msu.edu/~tangjili/index.html). She got a Master degree in  Computer Science and technology in 2020 from Sun Yat-sen University (SYSU).
